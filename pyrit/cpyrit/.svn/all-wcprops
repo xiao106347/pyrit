@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/308/trunk/pyrit/cpyrit
+END
+_cpyrit_cpu_sse2.S
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/304/trunk/pyrit/cpyrit/_cpyrit_cpu_sse2.S
+END
+network.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/291/trunk/pyrit/cpyrit/network.py
+END
+_cpyrit_cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/306/trunk/pyrit/cpyrit/_cpyrit_cpu.c
+END
+cpyrit.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/291/trunk/pyrit/cpyrit/cpyrit.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/305/trunk/pyrit/cpyrit/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/197/trunk/pyrit/cpyrit/__init__.py
+END
+_cpyrit_cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/305/trunk/pyrit/cpyrit/_cpyrit_cpu.h
+END
+pckttools.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/308/trunk/pyrit/cpyrit/pckttools.py
+END
+storage.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/299/trunk/pyrit/cpyrit/storage.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/291/trunk/pyrit/cpyrit/config.py
+END
+cpufeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/303/trunk/pyrit/cpyrit/cpufeatures.h
+END

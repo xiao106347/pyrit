@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/291/trunk/cpyrit_calpp
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/291/trunk/cpyrit_calpp/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/257/trunk/cpyrit_calpp/COPYING
+END
+_cpyrit_calpp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/290/trunk/cpyrit_calpp/_cpyrit_calpp.cpp
+END
+_cpyrit_calpp_kernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/289/trunk/cpyrit_calpp/_cpyrit_calpp_kernel.cpp
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/243/trunk/cpyrit_calpp/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/289/trunk/cpyrit_calpp/README
+END
+_cpyrit_calpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/291/trunk/cpyrit_calpp/_cpyrit_calpp.h
+END
+convert_optimized.sed
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/289/trunk/cpyrit_calpp/convert_optimized.sed
+END
+generate_optimized_kernel
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/289/trunk/cpyrit_calpp/generate_optimized_kernel
+END
+_cpyrit_calpp_kernel_generator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/291/trunk/cpyrit_calpp/_cpyrit_calpp_kernel_generator.cpp
+END

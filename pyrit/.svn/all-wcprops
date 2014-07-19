@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/308/trunk/pyrit
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/291/trunk/pyrit/CHANGELOG
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/305/trunk/pyrit/setup.py
+END
+pyrit
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/174/trunk/pyrit/pyrit
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/257/trunk/pyrit/COPYING
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/303/trunk/pyrit/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/285/trunk/pyrit/README
+END
+pyrit_cli.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/308/trunk/pyrit/pyrit_cli.py
+END

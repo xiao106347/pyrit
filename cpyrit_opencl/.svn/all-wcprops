@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/296/trunk/cpyrit_opencl
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/294/trunk/cpyrit_opencl/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/285/trunk/cpyrit_opencl/README
+END
+_cpyrit_opencl.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/291/trunk/cpyrit_opencl/_cpyrit_opencl.h
+END
+_cpyrit_oclkernel.cl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/291/trunk/cpyrit_opencl/_cpyrit_oclkernel.cl
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/296/trunk/cpyrit_opencl/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/257/trunk/cpyrit_opencl/COPYING
+END
+_cpyrit_opencl.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/291/trunk/cpyrit_opencl/_cpyrit_opencl.c
+END

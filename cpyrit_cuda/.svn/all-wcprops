@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/296/trunk/cpyrit_cuda
+END
+_cpyrit_cuda.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/291/trunk/cpyrit_cuda/_cpyrit_cuda.c
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/296/trunk/cpyrit_cuda/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/257/trunk/cpyrit_cuda/COPYING
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/294/trunk/cpyrit_cuda/MANIFEST.in
+END
+_cpyrit_cuda.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/291/trunk/cpyrit_cuda/_cpyrit_cuda.h
+END
+_cpyrit_cudakernel.cu
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/291/trunk/cpyrit_cuda/_cpyrit_cudakernel.cu
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/285/trunk/cpyrit_cuda/README
+END

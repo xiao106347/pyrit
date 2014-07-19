@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/306/trunk/pyrit/test
+END
+test_pyrit.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/306/trunk/pyrit/test/test_pyrit.py
+END
+wpapsk-virgin_broadband.dump.gz
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/233/trunk/pyrit/test/wpapsk-virgin_broadband.dump.gz
+END
+wpa2psk-MOM1.dump.gz
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/227/trunk/pyrit/test/wpa2psk-MOM1.dump.gz
+END
+wpapsk-linksys.dump.gz
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/183/trunk/pyrit/test/wpapsk-linksys.dump.gz
+END
+dict.gz
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/231/trunk/pyrit/test/dict.gz
+END
+wpa2psk-2WIRE972.dump.gz
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/227/trunk/pyrit/test/wpa2psk-2WIRE972.dump.gz
+END
+wpa2psk-Red_Apple.dump.gz
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/235/trunk/pyrit/test/wpa2psk-Red_Apple.dump.gz
+END
+wpa2psk-linksys.dump.gz
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/183/trunk/pyrit/test/wpa2psk-linksys.dump.gz
+END
